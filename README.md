@@ -1,7 +1,7 @@
 # ci_rapi
 
-CI Library for RAJA API Wilayah
-read more --> [https://docs.rajaapi.com/dokumentasi/wilayah]
+CI Library for RAJA API Wilayah.
+[read more here](https://docs.rajaapi.com/dokumentasi/wilayah)
 
 ## Installation
 
@@ -11,6 +11,7 @@ read more --> [https://docs.rajaapi.com/dokumentasi/wilayah]
 
 ## How To Use
 
+```php
     public function test(){
         $this->load->library('ci_rapi');
 
@@ -40,6 +41,7 @@ read more --> [https://docs.rajaapi.com/dokumentasi/wilayah]
         }
         die();
     }
+```
 
 ## Best Experience
 
